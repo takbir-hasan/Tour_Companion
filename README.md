@@ -1,6 +1,6 @@
 # Tour Companion
 
-JavaFX desktop app for booking tour guides, managing bookings, and leaving ratings after a trip. This is a 2-2 semester project.
+JavaFX desktop app for booking tour guides, managing bookings, and leaving ratings after a trip.
 
 Users can sign up, log in, browse guides with ratings and reviews, book a guide, cancel a booking, update their profile, and contact support.
 
